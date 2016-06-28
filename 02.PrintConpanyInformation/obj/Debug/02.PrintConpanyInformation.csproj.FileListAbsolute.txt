@@ -1,0 +1,12 @@
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\02.PrintConpanyInformation\bin\Debug\02.PrintConpanyInformation.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\02.PrintConpanyInformation\bin\Debug\02.PrintConpanyInformation.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\02.PrintConpanyInformation\bin\Debug\02.PrintConpanyInformation.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintConpanyInformation\bin\Debug\02.PrintConpanyInformation.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.pdb
+D:\++++++\Razni++\fuyi\ConsoleInputOutput\02.PrintConpanyInformation\bin\Debug\02.PrintConpanyInformation.exe.config
+D:\++++++\Razni++\fuyi\ConsoleInputOutput\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.exe
+D:\++++++\Razni++\fuyi\ConsoleInputOutput\02.PrintConpanyInformation\obj\Debug\02.PrintConpanyInformation.pdb

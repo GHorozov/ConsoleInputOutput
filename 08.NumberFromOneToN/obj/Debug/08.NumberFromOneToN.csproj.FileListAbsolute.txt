@@ -1,0 +1,5 @@
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\08.NumberFromOneToN\bin\Debug\08.NumberFromOneToN.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\08.NumberFromOneToN\bin\Debug\08.NumberFromOneToN.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\08.NumberFromOneToN\bin\Debug\08.NumberFromOneToN.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\08.NumberFromOneToN\obj\Debug\08.NumberFromOneToN.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\08.NumberFromOneToN\obj\Debug\08.NumberFromOneToN.pdb

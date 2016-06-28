@@ -1,0 +1,6 @@
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.csprojResolveAssemblyReference.cache

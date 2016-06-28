@@ -1,0 +1,6 @@
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.pdb

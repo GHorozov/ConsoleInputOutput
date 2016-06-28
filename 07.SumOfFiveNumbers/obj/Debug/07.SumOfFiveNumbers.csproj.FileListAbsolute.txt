@@ -1,0 +1,6 @@
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\SnAkEDoc\Documents\Visual Studio 2013\Projects\Operators and ExpressionsHomework\Solution1\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
